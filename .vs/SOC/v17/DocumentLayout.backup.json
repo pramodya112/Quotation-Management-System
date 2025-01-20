@@ -1,0 +1,947 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:MenuSup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\menusup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:menusup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|c:\\users\\vernakula\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\new folder\\with product\\new folder\\soc\\soc\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Orders.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\inventory supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:inventory supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\updatesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:updatesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\productlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:productlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\editproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:editproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:MenuSup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Inventory.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Tracking.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:ordermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ordermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:ordermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Inventory Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Inventory Supplier.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:AddProduct.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\updatesupplier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:updatesupplier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:UpdateSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:QuoteResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\quoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:quoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\quoteresponse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:quoteresponse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:AddSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpdateProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddProduct.Designer_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpdateProduct.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:QuoteRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:MenuForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:MenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Reports.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBEAB-7FBC-42D6-B201-B712D2425D79}|SOC.csproj|solutionrelative:Suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Base.cs",
+              "RelativeDocumentMoniker": "Base.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Base.cs",
+              "RelativeToolTip": "Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:04:09.214Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.cs",
+              "RelativeDocumentMoniker": "ProductListForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.cs [Design]",
+              "RelativeToolTip": "ProductListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:08:16.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.cs [Design]*",
+              "RelativeToolTip": "OrderManagementForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:33:28.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuSup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.cs",
+              "RelativeDocumentMoniker": "MenuSup.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.cs [Design]",
+              "RelativeToolTip": "MenuSup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:55:33.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuSup.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.cs",
+              "RelativeDocumentMoniker": "MenuSup.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.cs",
+              "RelativeToolTip": "MenuSup.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:25:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.cs [Design]*",
+              "RelativeToolTip": "Inventory.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:08:03.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.cs",
+              "RelativeDocumentMoniker": "Orders.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.cs [Design]",
+              "RelativeToolTip": "Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:55:46.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tracking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.cs",
+              "RelativeDocumentMoniker": "Tracking.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.cs [Design]",
+              "RelativeToolTip": "Tracking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:08:34.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Suppliers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Suppliers.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Suppliers.cs [Design]",
+              "RelativeToolTip": "Suppliers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:05:27.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Product.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.Designer.cs",
+              "RelativeDocumentMoniker": "Product.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.Designer.cs",
+              "RelativeToolTip": "Product.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:34:48.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddProduct.Designer_1.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer_1.cs",
+              "RelativeDocumentMoniker": "AddProduct.Designer_1.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer_1.cs",
+              "RelativeToolTip": "AddProduct.Designer_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:47:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:47:49.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.Designer.cs",
+              "RelativeDocumentMoniker": "UpdateProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.Designer.cs",
+              "RelativeToolTip": "UpdateProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:29:49.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateProduct.cs",
+              "RelativeToolTip": "UpdateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:33.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.Designer.cs",
+              "RelativeDocumentMoniker": "Orders.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.Designer.cs",
+              "RelativeToolTip": "Orders.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:34:44.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory Supplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.cs",
+              "RelativeDocumentMoniker": "Inventory Supplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.cs [Design]",
+              "RelativeToolTip": "Inventory Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:50:10.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddSupplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "AddSupplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddSupplier.cs [Design]",
+              "RelativeToolTip": "AddSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:11:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateSupplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.cs",
+              "RelativeDocumentMoniker": "UpdateSupplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.cs [Design]",
+              "RelativeToolTip": "UpdateSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:21:26.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuoteRequest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteRequest.cs",
+              "RelativeDocumentMoniker": "QuoteRequest.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteRequest.cs [Design]",
+              "RelativeToolTip": "QuoteRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:00:27.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:33:56.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.cs",
+              "RelativeDocumentMoniker": "AddProduct.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.cs [Design]",
+              "RelativeToolTip": "AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:11:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.Designer.cs",
+              "RelativeDocumentMoniker": "ProductListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.Designer.cs*",
+              "RelativeToolTip": "ProductListForm.Designer.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:11:06.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.cs",
+              "RelativeDocumentMoniker": "EditProduct.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.cs [Design]",
+              "RelativeToolTip": "EditProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:51:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductListForm.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.cs",
+              "RelativeDocumentMoniker": "ProductListForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\ProductListForm.cs*",
+              "RelativeToolTip": "ProductListForm.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:10:47.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.Designer.cs",
+              "RelativeDocumentMoniker": "EditProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.Designer.cs",
+              "RelativeToolTip": "EditProduct.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowK8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:52:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.cs",
+              "RelativeDocumentMoniker": "EditProduct.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\EditProduct.cs",
+              "RelativeToolTip": "EditProduct.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:51:45.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Base.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Base.cs",
+              "RelativeDocumentMoniker": "Base.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Base.cs [Design]",
+              "RelativeToolTip": "Base.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:42:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuSup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.Designer.cs",
+              "RelativeDocumentMoniker": "MenuSup.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuSup.Designer.cs",
+              "RelativeToolTip": "MenuSup.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:54:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.cs [Design]",
+              "RelativeToolTip": "MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:55:13.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Inventory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.Designer.cs*",
+              "RelativeToolTip": "Inventory.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:31:29.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tracking.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.cs",
+              "RelativeDocumentMoniker": "Tracking.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.cs",
+              "RelativeToolTip": "Tracking.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:26.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory.cs*",
+              "RelativeToolTip": "Inventory.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:47:17.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tracking.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.Designer.cs",
+              "RelativeDocumentMoniker": "Tracking.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Tracking.Designer.cs",
+              "RelativeToolTip": "Tracking.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:29:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.cs",
+              "RelativeDocumentMoniker": "Orders.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Orders.cs",
+              "RelativeToolTip": "Orders.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:34:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-09T19:47:46.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:32:10.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.cs*",
+              "RelativeToolTip": "OrderManagementForm.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:33:41.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\OrderManagementForm.Designer.cs*",
+              "RelativeToolTip": "OrderManagementForm.Designer.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:33:55.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Inventory Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.cs",
+              "RelativeDocumentMoniker": "Inventory Supplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.cs",
+              "RelativeToolTip": "Inventory Supplier.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwIYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:50:25.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.cs",
+              "RelativeDocumentMoniker": "AddProduct.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.cs",
+              "RelativeToolTip": "AddProduct.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:58:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAtwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:51:00.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Inventory Supplier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory Supplier.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Inventory Supplier.Designer.cs",
+              "RelativeToolTip": "Inventory Supplier.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAgwP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:23:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateSupplier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.Designer.cs",
+              "RelativeDocumentMoniker": "UpdateSupplier.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.Designer.cs",
+              "RelativeToolTip": "UpdateSupplier.Designer.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAowM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:42:43.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.cs",
+              "RelativeDocumentMoniker": "UpdateSupplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\UpdateSupplier.cs",
+              "RelativeToolTip": "UpdateSupplier.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "AddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddProduct.Designer.cs",
+              "RelativeToolTip": "AddProduct.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAowLsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:00:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QuoteResponse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs",
+              "RelativeDocumentMoniker": "QuoteResponse.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:02:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuoteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs",
+              "RelativeDocumentMoniker": "QuoteResponse.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.cs",
+              "RelativeToolTip": "QuoteResponse.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAwwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:04:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QuoteResponse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.Designer.cs",
+              "RelativeDocumentMoniker": "QuoteResponse.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteResponse.Designer.cs",
+              "RelativeToolTip": "QuoteResponse.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:55:14.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "AddSupplier.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\AddSupplier.cs",
+              "RelativeToolTip": "AddSupplier.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:46:05.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "QuoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteRequest.cs",
+              "RelativeDocumentMoniker": "QuoteRequest.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\QuoteRequest.cs",
+              "RelativeToolTip": "QuoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:34:51.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.Designer.cs",
+              "RelativeToolTip": "MenuForm.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAqwCwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:27:28.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:33:42.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:34:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Reports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.Designer.cs",
+              "RelativeDocumentMoniker": "Reports.Designer.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.Designer.cs",
+              "RelativeToolTip": "Reports.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:48:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Reports.cs",
+              "RelativeToolTip": "Reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:13.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Suppliers.cs",
+              "ToolTip": "C:\\Users\\VERNAKULA\\source\\repos\\viva backup with inventory\\viva code backup\\viva code\\New folder\\with product\\New folder\\SOC\\SOC\\Suppliers.cs",
+              "RelativeToolTip": "Suppliers.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:35:17.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
